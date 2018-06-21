@@ -6,27 +6,25 @@
         <description/>
         <device_type>browser</device_type>
         <hint/>
-        <name>NeedItTask</name>
+        <name>NeedIt Task</name>
         <order>100</order>
-        <roles>x_58872_needit.needittask_user</roles>
+        <roles>x_58872_needit.needit_task_user</roles>
         <sys_class_name>sys_app_application</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2017-06-06 22:29:46</sys_created_on>
-        <sys_customer_update>false</sys_customer_update>
+        <sys_created_on>2018-06-20 08:03:06</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>34e928cc4f1bb200a9e6f4934210c73e</sys_id>
+        <sys_id>0d1659f94ff21300db46aa2f9310c735</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>NeedItTask</sys_name>
+        <sys_name>NeedIt Task</sys_name>
         <sys_overrides/>
         <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
         <sys_policy/>
-        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
-        <sys_update_name>sys_app_application_34e928cc4f1bb200a9e6f4934210c73e</sys_update_name>
+        <sys_update_name>sys_app_application_0d1659f94ff21300db46aa2f9310c735</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-06-06 22:29:46</sys_updated_on>
-        <title>NeedItTask</title>
+        <sys_updated_on>2018-06-20 08:03:06</sys_updated_on>
+        <title>NeedIt Task</title>
         <view_name/>
     </sys_app_application>
 </record_update>
